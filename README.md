@@ -1,8 +1,8 @@
 <h1>Hi, I'm Chisom! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻Google Cybersecurity Portfolio:</h2>
 
-  - [Active Directory Home Lab](https://github.com/Chisomeboh1/File-Permission-in-Linux/tree/main)
+  - [Linux File Permissions](https://github.com/Chisomeboh1/File-Permission-in-Linux/tree/main)
  
 <h2>📺 Certifications</h2>
 
