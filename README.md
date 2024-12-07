@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/chisomeboh1/LABURL)
+  - [Active Directory Home Lab](https://github.com/Chisomeboh1/File-Permission-in-Linux/tree/main)
  
 <h2>📺 Certifications</h2>
 
