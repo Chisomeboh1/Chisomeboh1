@@ -5,6 +5,9 @@
 - <b>Authenticate and Authorize users (Linux Power User)</b>
   - [A Linux File Permissions Activity](https://github.com/Chisomeboh1/File-Permission-in-Linux/tree/main)
  
+- <b>SQL and Database Queries (SQL Power User)</b>
+   - [A Linux File Permissions Activity](https://github.com/Chisomeboh1/File-Permission-in-Linux/tree/main)
+ 
 <h2>📺 Certifications</h2>
 
 - [Google cybersecurity analyst](https://CERT URL)
