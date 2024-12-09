@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chisom! </h1>
 
-<h2>👨‍💻Google Cybersecurity Portfolio:</h2>
+<h2>👨‍💻 Cybersecurity Portfolio:</h2>
 
   - [A Linux File Permissions Activity](https://github.com/Chisomeboh1/File-Permission-in-Linux/tree/main)
  
