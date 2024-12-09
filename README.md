@@ -4,8 +4,7 @@
 
 - <b>Authenticate and Authorize users (Linux Power User)</b>
   - [Linux File Permissions Activity](https://github.com/Chisomeboh1/File-Permission-in-Linux/tree/main)
- 
-- <b>Query Data with Filters (SQL Power User)</b>
+ - <b>Query Data with Filters (SQL Power User)</b>
    - [SQL and Database Activity](https://github.com/Chisomeboh1/Apply-filters-to-SQL-queries/tree/main)
  
 <h2>📺 Certifications</h2>
