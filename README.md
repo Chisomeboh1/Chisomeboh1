@@ -1,7 +1,8 @@
-<h1>Hi, I'm Chisom! </h1>
+<h1>Hi, I'm Chisom! <br/><a href="https://github.com/Chisomeboh1">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/MY LINKEDIN NAME/">IT Specialist/Accountant </a>, <a href="https://www.youtube.com/c/YOUTUBE NAME">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Portfolio:</h2>
+<h2>👨‍💻Google Cybersecurity Portfolio:</h2>
 
+- <b>Authenticate and Authorize users (Linux Power User)</b>
   - [A Linux File Permissions Activity](https://github.com/Chisomeboh1/File-Permission-in-Linux/tree/main)
  
 <h2>📺 Certifications</h2>
