@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chisom! <br/><a href="https://github.com/Chisomeboh1">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/MY LINKEDIN NAME/">IT Specialist/Accountant </a>, <a href="https://www.youtube.com/c/YOUTUBE NAME">YouTuber</a></h1>
+<h1>Hi, I'm Chisom! <br/><a href="https://github.com/Chisomeboh1">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/MY LINKEDIN NAME/">IT Support Specialist/Accountant </a>, <a href="https://www.youtube.com/c/YOUTUBE NAME">YouTuber</a></h1>
 
 <h2>👨‍💻Google Cybersecurity Portfolio:</h2>
 
