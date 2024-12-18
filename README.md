@@ -7,7 +7,7 @@
  - <b>Query Data with Filters (SQL Power User)</b>
    - [SQL and Database Activity](https://github.com/Chisomeboh1/Apply-filters-to-SQL-queries/tree/main)
 - <b>Threat and Vulnerability Assessments</b>
-   - [Threat And Vulnerability Assessments](https://github.com/Chisomeboh1/Apply-filters-to-SQL-queries/tree/main)
+   - [Threat And Vulnerability Assessments](https://github.com/Chisomeboh1/Threats-AND-Vulnerability-Assessment)
  
 <h2>📺 Certifications</h2>
 
