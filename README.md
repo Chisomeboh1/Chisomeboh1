@@ -6,8 +6,8 @@
   - [Linux File Permissions Activity](https://github.com/Chisomeboh1/File-Permission-in-Linux/tree/main)
  - <b>Query Data with Filters (SQL Power User)</b>
    - [SQL and Database Activity](https://github.com/Chisomeboh1/Apply-filters-to-SQL-queries/tree/main)
-- <b>Query Data with Filters (SQL Power User)</b>
-   - [SQL and Database Activity](https://github.com/Chisomeboh1/Apply-filters-to-SQL-queries/tree/main)
+- <b>Threat and Vulnerability Assessments</b>
+   - [Threat And Vulnerability Assessments](https://github.com/Chisomeboh1/Apply-filters-to-SQL-queries/tree/main)
  
 <h2>📺 Certifications</h2>
 
