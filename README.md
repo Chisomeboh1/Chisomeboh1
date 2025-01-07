@@ -8,8 +8,8 @@
    - [SQL and Database Activity](https://github.com/Chisomeboh1/Apply-filters-to-SQL-queries/tree/main)
 - <b>System Vulnerability Assessments</b>
    - [Threat And Vulnerability Assessments](https://github.com/Chisomeboh1/Threats-AND-Vulnerability-Assessment)
-- <b>Authenticate and Authorize users (Linux Power User)</b>
-  - [Linux File Permissions Activity](https://github.com/Chisomeboh1/File-Permission-in-Linux/tree/main)
+- <b> Python Automation</b>
+  - [File update with python](https://github.com/Chisomeboh1/Python-for-Automation)
  
 <h2>📺 Certifications</h2>
 
